@@ -1,0 +1,66 @@
+nav a{
+    padding: .5% 2%;
+    background-color: lightskyblue;
+    font-size: 200%;
+    color:darkslategrey;
+    border-bottom-right-radius: 30%;
+    border-top-left-radius:30%;
+}
+nav{
+    padding: 1%;
+    background-color: midnightblue;
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+}
+a:hover{
+    color:ghostwhite;
+    background-color:midnightblue
+}
+a:link{
+    text-decoration: none;
+}
+.active{
+    color:ghostwhite;
+    background-color: midnightblue;
+
+}
+.source{
+    color:lightslategrey
+}
+.source:hover{
+    color:black;
+    background-color:ghostwhite;
+}
+h1{
+    color:ghostwhite;
+    font-size: 300%;
+}
+h2{
+    font-size:250%;
+}
+p{
+    font-size:150%;
+}
+.main{
+    padding:1%;
+    width:75%;
+    margin-left:12.5%;
+    margin-top:10%;
+    background-color:sandybrown;
+    text-align: justify;
+}
+
+body{
+    background-color: lightgrey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+footer{
+    background-color:ghostwhite;
+    position:absolute;
+    bottom:0;
+    left:0;
+    right:0;
+}
