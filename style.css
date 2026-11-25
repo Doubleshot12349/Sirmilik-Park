@@ -64,3 +64,13 @@ footer{
     left:0;
     right:0;
 }
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+    padding-left: 350px;
+    padding-top: 10px;
+    padding-bottom: 150px;
+}
